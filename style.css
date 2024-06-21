@@ -203,6 +203,17 @@ body {
   .project-card li {
     font-size: 20px;
     margin-left: 30px;
+    
+  }
+
+  #stock {
+    width: 1000px;
+    margin-left: 30px;
+  }
+
+  #clue {
+    width: 1000px;
+    margin-left: 30px;
   }
   
   /* Recommendations */
